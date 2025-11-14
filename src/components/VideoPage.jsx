@@ -18,7 +18,7 @@ const VideoPage = () => {
       container: element,
       sharedLinks: [
         {
-          name: 'Copy link',
+          name: 'Copy link Url',
           url:
            window.location.protocol + '//' + 
            window.location.host + window.location.pathname ,
