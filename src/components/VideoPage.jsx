@@ -21,9 +21,7 @@ const VideoPage = () => {
           name: 'Copy link',
           url:
            window.location.protocol + '//' + 
-           window.location.host + window.location.pathname +
-            '?roomID=' +
-            roomID,
+           window.location.host + window.location.pathname ,
         },
       ],
       scenario: {
