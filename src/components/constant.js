@@ -1,2 +1,2 @@
-export const APP_ID=830801260
-export const SERVER_SECRET="dba9a1f9db5856db6279aa04afcff67b"
+export const APP_ID=1390809441
+export const SERVER_SECRET="950862963aa2f8863cf953564e712998"
