@@ -10,7 +10,7 @@ const VideoPage = () => {
    // generate Kit Token
     const appID = APP_ID;
     const serverSecret = SERVER_SECRET;
-    const kitToken =  ZegoUIKitPrebuilt.generateKitTokenForTest(appID, serverSecret, roomID, Date.now().toString(),"aanchalmittal");  
+    const kitToken =  ZegoUIKitPrebuilt.generateKitTokenForTest(appID, serverSecret, roomID, Date.now().toString(),"jitu");  
    // Create instance object from Kit Token.
     const zp = ZegoUIKitPrebuilt.create(kitToken);
     // start the call
